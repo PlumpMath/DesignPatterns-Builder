@@ -1,0 +1,6 @@
+c:\users\dag\documents\visual studio 2013\Projects\BuilderÖvning\BuilderÖvning\bin\Debug\BuilderÖvning.exe.config
+c:\users\dag\documents\visual studio 2013\Projects\BuilderÖvning\BuilderÖvning\bin\Debug\BuilderÖvning.exe
+c:\users\dag\documents\visual studio 2013\Projects\BuilderÖvning\BuilderÖvning\bin\Debug\BuilderÖvning.pdb
+c:\users\dag\documents\visual studio 2013\Projects\BuilderÖvning\BuilderÖvning\obj\Debug\BuilderÖvning.csprojResolveAssemblyReference.cache
+c:\users\dag\documents\visual studio 2013\Projects\BuilderÖvning\BuilderÖvning\obj\Debug\BuilderÖvning.exe
+c:\users\dag\documents\visual studio 2013\Projects\BuilderÖvning\BuilderÖvning\obj\Debug\BuilderÖvning.pdb
